@@ -9,5 +9,9 @@
 
 ![image](https://user-images.githubusercontent.com/50335583/138880619-6a5ed6f5-65bf-4777-9830-90529d80838f.png)
 
+## 3. Alerts Triggered
+![image](https://user-images.githubusercontent.com/50335583/138880799-0502e993-2afd-42cb-8ece-77151dad04f5.png)
+
+
 
 
