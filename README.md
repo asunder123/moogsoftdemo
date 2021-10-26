@@ -5,3 +5,6 @@
 ## 2. Metrics collected from ubuntu processes
 ![image](https://user-images.githubusercontent.com/50335583/138872786-0e563e9c-5fe3-470e-9193-daa72eb82d82.png)
 
+![image](https://user-images.githubusercontent.com/50335583/138880400-d76e9303-3eff-44de-8be5-9b436eb1773c.png)
+
+
