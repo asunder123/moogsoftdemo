@@ -10,10 +10,9 @@
 ![image](https://user-images.githubusercontent.com/50335583/138880619-6a5ed6f5-65bf-4777-9830-90529d80838f.png)
 
 ## 3. Alerts Triggered
-![image](https://user-images.githubusercontent.com/50335583/139019903-e09b895e-fa41-494b-8b90-a2bac3
-![image](https://user-images.githubusercontent.com/50335583/139020026-3f546529-1cf8-4051-89d9-5335e2f163a9.png)
-eb9d89.png)
+![image](https://user-images.githubusercontent.com/50335583/139020122-d7fb5360-f00a-46a5-ac0d-0c8e42fbe378.png)
 
+![image](https://user-images.githubusercontent.com/50335583/139020026-3f546529-1cf8-4051-89d9-5335e2f163a9.png)
 ![image](https://user-images.githubusercontent.com/50335583/139019655-def99181-45fa-4daf-a71b-e7a220c53ea6.png)
 ![image](https://user-images.githubusercontent.com/50335583/139019767-0df98f09-e8c0-423d-bc38-1c8dfa56b798.png)
 
